@@ -10,3 +10,5 @@
 
 # :exclamation:Informations supplémentaires
 - Ce plugin possède un Webhook m'informant de qui utilise mon plugin
+# :green_book:  Dépendance
+*[ModKit(https://github.com/Aarnow/NovaLife_ModKit-Releases/releases/latest)*
