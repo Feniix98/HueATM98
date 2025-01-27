@@ -1,2 +1,12 @@
-# HueATM98
-Ce plugin permet d'OV l'ATM afin d'avoir un panel plus beau avec plus de fonctions
+# :atm: HueATM98
+
+# :art: Description
+- Ce plugin permet de changer l'OV de l'ATM pour le remplacer par un panel plus propre et avec plus d'options !0
+
+# :bell: Comment l'utiliser
+- Pour utiliser ce plugin il faudra :
+- Le mettre sur votre serveur
+- Redémarrer le serveur
+
+# :exclamation:Informations supplémentaires
+- Ce plugin possède un Webhook m'informant de qui utilise mon plugin
